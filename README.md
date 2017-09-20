@@ -8,6 +8,8 @@
 
 [ What is word boundary SO ](https://stackoverflow.com/questions/1324676/what-is-a-word-boundary-in-regexes)<br>
 [ Catastrophic Backtracking ](https://swtch.com/~rsc/regexp/regexp1.html)
+[ Convert from regex to NFA to DFA](http://hackingoff.com/compilers/regular-expression-to-nfa-dfa)
+
 
 By default python3 is unicode enabled. <br>
 By default all the quantifiers \*, +, ? work in greedy mode.  
