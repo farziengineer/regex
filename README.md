@@ -11,3 +11,4 @@
 
 By default python3 is unicode enabled. <br>
 By default all the quantifiers \*, +, ? work in greedy mode.  
+\.(dot) is wildcard.
